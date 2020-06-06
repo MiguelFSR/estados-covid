@@ -1,0 +1,335 @@
+{
+  "estados":{
+    "Abasolo":{
+      "Casos_investigados" : 2,
+      "Casos_Confirmados" : 14,
+      "Casos_Recuperados" : 1,
+      "Defunciones" : 1,
+      "Transmision_Comunitativa" : 12
+    },
+    "Acámbaro":{
+    "Casos_investigados" : 23,
+    "Casos_Confirmados" : 70,
+    "Casos_Recuperados" : 27,
+    "Defunciones" : 6,
+    "Transmision_Comunitativa" : 70
+      
+    },
+    "Apaseo_el_Alto":{
+    "Casos_investigados" : 4,
+    "Casos_Confirmados" : 16,
+    "Casos_Recuperados" : 1,
+    "Defunciones" : 0,
+    "Transmision_Comunitativa" : 16
+    },
+    "Apaseo_el_Grande":{
+      "Casos_investigados" : 5,
+      "Casos_Confirmados" : 26,
+      "Casos_Recuperados" : 9,
+      "Defunciones" : 3,
+      "Transmision_Comunitativa" : 26
+    },
+    "Atarjea":{
+      "Casos_investigados" : 0,
+      "Casos_Confirmados" : 1,
+      "Casos_Recuperados" : 0,
+      "Defunciones" : 0,
+      "Transmision_Comunitativa" : 1
+    },
+    "Celaya":{
+      "Casos_investigados" : 94,
+      "Casos_Confirmados" : 236,
+      "Casos_Recuperados" : 56,
+      "Defunciones" : 30,
+      "Transmision_Comunitativa" : 226
+    },
+    "Comonfort":{
+      "Casos_investigados" : 5,
+      "Casos_Confirmados" : 12,
+      "Casos_Recuperados" : 2,
+      "Defunciones" : 0,
+      "Transmision_Comunitativa" : 12
+    },
+    "Coroneo":{
+      "Casos_investigados" : 32,
+      "Casos_Confirmados" : 7,
+      "Casos_Recuperados" : 2,
+      "Defunciones" : 0,
+      "Transmision_Comunitativa" : 6
+    },
+    "Cortazar":{
+      "Casos_investigados" : 17,
+      "Casos_Confirmados" : 40,
+      "Casos_Recuperados" : 6,
+      "Defunciones" : 5,
+      "Transmision_Comunitativa" : 32
+    },
+    "Cuerámaro":{
+      "Casos_investigados" : 4,
+      "Casos_Confirmados" : 17,
+      "Casos_Recuperados" : 4,
+      "Defunciones" : 0,
+      "Transmision_Comunitativa" : 17
+    },
+    "Doctor_Mora":{
+      "Casos_investigados" : 1,
+      "Casos_Confirmados" : 4,
+      "Casos_Recuperados" : 1,
+      "Defunciones" : 1,
+      "Transmision_Comunitativa" : 4
+    },
+    "Dolores_Hidalgo":{
+      "Casos_investigados" : 7,
+      "Casos_Confirmados" : 19,
+      "Casos_Recuperados" : 3,
+      "Defunciones" : 2,
+      "Transmision_Comunitativa" : 19
+    },
+    "Guanajuato":{
+      "Casos_investigados" : 13,
+      "Casos_Confirmados" : 32,
+      "Casos_Recuperados" : 12,
+      "Defunciones" : 2,
+      "Transmision_Comunitativa" : 26
+    },
+    "Huanímaro":{
+      "Casos_investigados" : 1,
+      "Casos_Confirmados" : 6,
+      "Casos_Recuperados" : 4,
+      "Defunciones" : 1,
+      "Transmision_Comunitativa" : 5
+    },
+    "Irapuato":{
+      "Casos_investigados" : 101,
+      "Casos_Confirmados" : 277,
+      "Casos_Recuperados" : 68,
+      "Defunciones" : 9,
+      "Transmision_Comunitativa" : 267
+    },
+    "Jaral_del_Progreso":{
+      "Casos_investigados" : 0,
+      "Casos_Confirmados" : 23,
+      "Casos_Recuperados" : 13,
+      "Defunciones" : 2,
+      "Transmision_Comunitativa" : 21
+    },
+    "Jerécuaro":{
+      "Casos_investigados" : 6,
+      "Casos_Confirmados" : 4,
+      "Casos_Recuperados" : 1,
+      "Defunciones" : 0,
+      "Transmision_Comunitativa" : 3
+    },
+    "León":{
+      "Casos_investigados" : 775,
+      "Casos_Confirmados" : 1168,
+      "Casos_Recuperados" : 262,
+      "Defunciones" : 46,
+      "Transmision_Comunitativa" : 1130
+    },
+    "Manuel_Doblado":{
+      "Casos_investigados" : 1,
+      "Casos_Confirmados" : 3,
+      "Casos_Recuperados" : 1,
+      "Defunciones" : 0,
+      "Transmision_Comunitativa" : 3
+    },
+    "Moroleón":{
+      "Casos_investigados" : 3,
+      "Casos_Confirmados" : 26,
+      "Casos_Recuperados" : 16,
+      "Defunciones" : 4,
+      "Transmision_Comunitativa" : 24
+    },
+    "Ocampo":{
+      "Casos_investigados" : 0,
+      "Casos_Confirmados" : 6,
+      "Casos_Recuperados" : 0,
+      "Defunciones" : 1,
+      "Transmision_Comunitativa" : 6
+    },
+    "Pénjamo":{
+      "Casos_investigados" : 18,
+      "Casos_Confirmados" : 40,
+      "Casos_Recuperados" : 9,
+      "Defunciones" : 1,
+      "Transmision_Comunitativa" : 35
+    },
+    "Pueblo_Nuevo":{
+      "Casos_investigados" : 5,
+      "Casos_Confirmados" : 7,
+      "Casos_Recuperados" : 0,
+      "Defunciones" : 0,
+      "Transmision_Comunitativa" : 7
+    },
+    "Purísima_del_Rincón":{
+      "Casos_investigados" : 0,
+      "Casos_Confirmados" : 12,
+      "Casos_Recuperados" : 0,
+      "Defunciones" : 1,
+      "Transmision_Comunitativa" : 12
+    },
+    "Romita":{
+      "Casos_investigados" : 10,
+      "Casos_Confirmados" : 168,
+      "Casos_Recuperados" : 43,
+      "Defunciones" : 8,
+      "Transmision_Comunitativa" : 167
+    },
+    "Salamanca":{
+      "Casos_investigados" : 37,
+      "Casos_Confirmados" : 147,
+      "Casos_Recuperados" : 96,
+      "Defunciones" : 12,
+      "Transmision_Comunitativa" : 106
+    },
+    "Salvatierra":{
+      "Casos_investigados" : 14,
+      "Casos_Confirmados" : 39,
+      "Casos_Recuperados" : 14,
+      "Defunciones" : 3,
+      "Transmision_Comunitativa" : 38
+    },
+    "San_Diego_de_la_Unión":{
+      "Casos_investigados" : 3,
+      "Casos_Confirmados" : 18,
+      "Casos_Recuperados" : 10,
+      "Defunciones" : 0,
+      "Transmision_Comunitativa" : 18
+    },
+    "San_Felipe":{
+      "Casos_investigados" : 3,
+      "Casos_Confirmados" : 25,
+      "Casos_Recuperados" : 8,
+      "Defunciones" : 0,
+      "Transmision_Comunitativa" : 25
+    },
+    "San_Francisco_del_Rincón":{
+      "Casos_investigados" : 6,
+      "Casos_Confirmados" : 44,
+      "Casos_Recuperados" : 13,
+      "Defunciones" : 3,
+      "Transmision_Comunitativa" : 43
+    },
+    "San_José_Iturbide":{
+      "Casos_investigados" : 3,
+      "Casos_Confirmados" : 9,
+      "Casos_Recuperados" : 1,
+      "Defunciones" : 1,
+      "Transmision_Comunitativa" : 9
+    },
+    "San_Luis_de_la_Paz":{
+      "Casos_investigados" : 13,
+      "Casos_Confirmados" : 50,
+      "Casos_Recuperados" : 23,
+      "Defunciones" : 6,
+      "Transmision_Comunitativa" : 48
+    },
+    "San_Miguel_de_Allende":{
+      "Casos_investigados" : 5,
+      "Casos_Confirmados" : 37,
+      "Casos_Recuperados" : 13,
+      "Defunciones" : 2,
+      "Transmision_Comunitativa" : 34
+    },
+    "Santa_Catarina":{
+      "Casos_investigados" : 0,
+      "Casos_Confirmados" : 2,
+      "Casos_Recuperados" : 0,
+      "Defunciones" : 0,
+      "Transmision_Comunitativa" : 1
+    },
+    "Juventino_Rosas":{
+      "Casos_investigados" : 20,
+      "Casos_Confirmados" : 71,
+      "Casos_Recuperados" : 23,
+      "Defunciones" : 8,
+      "Transmision_Comunitativa" : 71
+    },
+    "Santiago_Maravatio":{
+      "Casos_investigados" : 2,
+      "Casos_Confirmados" : 25,
+      "Casos_Recuperados" : 7,
+      "Defunciones" : 3,
+      "Transmision_Comunitativa" : 24
+    },
+    "Silao":{
+      "Casos_investigados" : 24,
+      "Casos_Confirmados" : 121,
+      "Casos_Recuperados" : 40,
+      "Defunciones" : 9,
+      "Transmision_Comunitativa" : 119
+    },
+    "Tarandacuao":{
+      "Casos_investigados" : 7,
+      "Casos_Confirmados" : 8,
+      "Casos_Recuperados" : 5,
+      "Defunciones" : 1,
+      "Transmision_Comunitativa" : 7
+    },
+    "Tarimoro":{
+      "Casos_investigados" : 3,
+      "Casos_Confirmados" : 10,
+      "Casos_Recuperados" : 1,
+      "Defunciones" : 1,
+      "Transmision_Comunitativa" : 9
+    },
+    "Tierra_Blanca":{
+      "Casos_investigados" : 6,
+      "Casos_Confirmados" : 18,
+      "Casos_Recuperados" : 0,
+      "Defunciones" : 0,
+      "Transmision_Comunitativa" : 17
+    },
+    "Uriangato":{
+      "Casos_investigados" : 0,
+      "Casos_Confirmados" : 20,
+      "Casos_Recuperados" : 12,
+      "Defunciones" : 1,
+      "Transmision_Comunitativa" : 17
+    },
+    "Valle_de_Santiago":{
+      "Casos_investigados" : 3,
+      "Casos_Confirmados" : 30,
+      "Casos_Recuperados" : 14,
+      "Defunciones" : 1,
+      "Transmision_Comunitativa" : 26
+    },
+    "Victoria":{
+      "Casos_investigados" : 5,
+      "Casos_Confirmados" : 3,
+      "Casos_Recuperados" : 1,
+      "Defunciones" : 1,
+      "Transmision_Comunitativa" : 3
+    },
+    "Villagrán":{
+      "Casos_investigados" : 3,
+      "Casos_Confirmados" : 9,
+      "Casos_Recuperados" : 1,
+      "Defunciones" : 1,
+      "Transmision_Comunitativa" : 8
+    },
+    "Xichú":{
+      "Casos_investigados" : 2,
+      "Casos_Confirmados" : 3,
+      "Casos_Recuperados" : 0,
+      "Defunciones" : 0,
+      "Transmision_Comunitativa" : 3
+    
+    },
+    "Yuriria":{
+      "Casos_investigados" : 10,
+      "Casos_Confirmados" : 15,
+      "Casos_Recuperados" : 11,
+      "Defunciones" : 2,
+      "Transmision_Comunitativa" : 13
+    },
+    "No_residente":{
+      "Casos_investigados" : 16,
+      "Casos_Confirmados" : 2,
+      "Casos_Recuperados" : 0,
+      "Defunciones" : 0,
+      "Transmision_Comunitativa" : 0
+    }
+  }
+}
